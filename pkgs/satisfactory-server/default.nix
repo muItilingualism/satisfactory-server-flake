@@ -19,7 +19,7 @@ stdenvNoCC.mkDerivation (finalAttrs: {
     inherit (finalAttrs) name;
     appId = "1690800";
     depotId = "1690802";
-    manifestId = "4600845959166322693";
+    manifestId = "3695171404295434327";
     hash = lib.fakeHash;
   };
 
