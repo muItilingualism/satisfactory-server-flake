@@ -17,9 +17,9 @@ stdenvNoCC.mkDerivation (finalAttrs: {
 
   src = fetchSteam {
     inherit (finalAttrs) name;
-    appId = "1690800";
-    depotId = "1690802";
-    manifestId = "3695171404295434327";
+    appId = "526870";
+    depotId = "526872";
+    manifestId = "4600845959166322693";
     hash = lib.fakeHash;
   };
 
